@@ -16,8 +16,15 @@ Together with NXP, we help students contribute to open source projects and give 
 
 ## For Students
 
-If you are a student that wants to sign up for the program, take a look at our repositories here and fix an isssue
-marked as *Good First Issue*. We will get back to you.
+If you are a student that wants to sign up for the program, take a look at our repositories here and start working for an isssue
+marked as *Good First Issue*. We are waiting for questions.
+
+Main steps:
+- fork the repository to your github account
+- make a new branch and push it back to your github account
+- open a *draft* pull request
+- start working on the issue and push code regulary
+- we will give you feedback
 
 ## For Mentors
 
