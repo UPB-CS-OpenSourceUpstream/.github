@@ -31,3 +31,11 @@ Main steps:
 If you would like to propose a project or mentor a student, send us an email 
 at alexandru.radovici@upb.ro, ioana.culic@upb.ro 
 or alexandru.vochescu@upb.ro.
+
+## Students
+
+These are the students that have contributed to the projects:
+
+| Student | Pull Requests |
+|---------|---------------|
+| [Robert Grancsa](https://github.com/RobertGrancsa) | [kibi](https://github.com/UPB-CS-OpenSourceUpstream/kibi): https://github.com/ilai-deutel/kibi/pull/207 |
