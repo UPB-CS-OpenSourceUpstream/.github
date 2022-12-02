@@ -36,6 +36,5 @@ or alexandru.vochescu@upb.ro.
 
 These are the students that have contributed to the projects:
 
-| Student | Pull Requests |
-|---------|---------------|
-| [Robert Grancsa](https://github.com/RobertGrancsa) | [kibi](https://github.com/UPB-CS-OpenSourceUpstream/kibi): https://github.com/ilai-deutel/kibi/pull/207 |
+### [Robert Grancsa](https://github.com/RobertGrancsa)
+ - [kibi](https://github.com/UPB-CS-OpenSourceUpstream/kibi): added copy and paste lines https://github.com/ilai-deutel/kibi/pull/207
