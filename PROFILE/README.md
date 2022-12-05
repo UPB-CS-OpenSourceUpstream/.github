@@ -38,3 +38,6 @@ These are the students that have contributed to the projects:
 
 ### [Robert Grancsa](https://github.com/RobertGrancsa)
  - [kibi](https://github.com/UPB-CS-OpenSourceUpstream/kibi): added copy and paste lines https://github.com/ilai-deutel/kibi/pull/207
+ 
+### [Darius Andrei Jipa](https://github.com/JADarius)
+  - [tock](https://github.com/tock/tock): increased kernel stack for micro:bit v2 to avoid stack overflow https://github.com/tock/tock/pull/3339
