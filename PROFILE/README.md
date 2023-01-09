@@ -45,3 +45,6 @@ These are the students that have contributed to the projects:
   
 ### [Ioan-Alexandru Popa](https://github.com/ALEX11BR)
   - [tiny](https://github.com/osa1/tiny): Allow /quit with a message https://github.com/osa1/tiny/pull/395
+  
+### [Mihai Negru](https://github.com/Matrix22)
+  - [elf2tab](https://github.com/tock/elf2tab): Create an tbf parsing crate https://github.com/tock/elf2tab/pull/62 (in review)
