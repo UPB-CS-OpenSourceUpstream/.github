@@ -11,7 +11,7 @@ Together with NXP, we help students contribute to open source projects and give 
 
   - *7.11.2022 - 29.01.2023* - Students that want to sign up start working on proposed projects. Students need to have at least one contribution to one of the projects to be able to attend the interview.
   - *30.01.2023 - 12.02.2023* - Interviews for students that have at least one contribution to one of the proposed projects.
-  - *03.03.2023* - Students are notified about the acceptance (maximum 5 students are selected).
+  - *14.02.2023* - Students are notified about the acceptance (maximum 5 students are selected).
   - *March 2023 - May 2023* - Scholarship part 1.
   - *May 2023* - Evaluation of contribution, 3 students are selected to continue over the summer.
   - *July - September* - Scholarship part 2.
