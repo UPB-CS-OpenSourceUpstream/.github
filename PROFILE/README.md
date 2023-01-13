@@ -5,6 +5,8 @@ the University Politehnica of Bucharest.
 
 Together with NXP, we help students contribute to open source projects and give them a scholarship for that.
 
+[![Gitter](https://badges.gitter.im/UPB-CS-OpenSourceUpstream/community.svg)](https://gitter.im/UPB-CS-OpenSourceUpstream/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## Timeline
 
   - *7.11.2022 - 29.01.2023* - Students that want to sign up start working on proposed projects. Students need to have at least one contribution to one of the projects to be able to attend the interview.
