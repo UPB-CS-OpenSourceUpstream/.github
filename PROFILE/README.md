@@ -51,3 +51,6 @@ These are the students that have contributed to the projects:
   
 ### [Mihai Negru](https://github.com/Matrix22)
   - [elf2tab](https://github.com/tock/elf2tab): Create an tbf parsing crate https://github.com/tock/elf2tab/pull/62 (in review)
+
+### [Rares Constantinescu](https://github.com/RaresCon)
+  - [bottom](https://github.com/ClementTsang/bottom): Dynamic battery widget https://github.com/ClementTsang/bottom/pull/975
