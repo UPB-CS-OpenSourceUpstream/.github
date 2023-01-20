@@ -54,3 +54,7 @@ These are the students that have contributed to the projects:
 
 ### [Rares Constantinescu](https://github.com/RaresCon)
   - [bottom](https://github.com/ClementTsang/bottom): Dynamic battery widget https://github.com/ClementTsang/bottom/pull/975
+  
+### [Mihai-Carol Bazga](https://github.com/carol-mb)
+  - [kibi](https://github.com/ilai-deutel): Implemented CTRL + Arrows to move to next/previous word https://github.com/ilai-deutel/kibi/pull/214
+
