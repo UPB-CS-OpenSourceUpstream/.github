@@ -50,13 +50,13 @@ These are the students that have contributed to the projects:
   - [tiny](https://github.com/osa1/tiny): Allow /quit with a message https://github.com/osa1/tiny/pull/395
   
 ### [Mihai Negru](https://github.com/Matrix22)
-  - [elf2tab](https://github.com/tock/elf2tab): Create an tbf parsing crate https://github.com/tock/elf2tab/pull/62 (in review)
+  - [elf2tab](https://github.com/tock/elf2tab): Create an tbf parsing crate https://github.com/tock/elf2tab/pull/62 (in review[^in_review])
 
 ### [Rares Constantinescu](https://github.com/RaresCon)
   - [bottom](https://github.com/ClementTsang/bottom): Dynamic battery widget https://github.com/ClementTsang/bottom/pull/975
-  - [bottom](https://github.com/ClementTsang/bottom): feature: custom terminal title https://github.com/ClementTsang/bottom/pull/999 (in review)
-  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Romanian translation for Chapters 1-4 https://github.com/richardanaya/tour_of_rust/pull/455 (in review)
-  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Translated Chapter 5 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/455 (in review)
+  - [bottom](https://github.com/ClementTsang/bottom): feature: custom terminal title https://github.com/ClementTsang/bottom/pull/999 (in review[^in_review])
+  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Romanian translation for Chapters 1-4 https://github.com/richardanaya/tour_of_rust/pull/455 (in review[^in_review])
+  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Translated Chapter 5 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/455 (in review[^in_review])
   
 ### [Mihai-Carol Bazga](https://github.com/carol-mb)
   - [kibi](https://github.com/ilai-deutel): Implemented CTRL + Arrows to move to next/previous word https://github.com/ilai-deutel/kibi/pull/214
@@ -69,4 +69,9 @@ These are the students that have contributed to the projects:
   - [tockloader->rust](https://github.com/UPB-CS-OpenSourceUpstream/tockloader/tree/rust-port): Some command line argument parsing with clap https://github.com/UPB-CS-OpenSourceUpstream/tockloader/pull/9
   
 ### [Alexandru Sima](https://github.com/alx-sima)
-  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Chapter 0 translation in romanian. https://github.com/richardanaya/tour_of_rust/pull/454 (in review)
+  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Chapter 0 translation in romanian. https://github.com/richardanaya/tour_of_rust/pull/454 (in review[^in_review])
+  
+### [Robert Andrei Tache](https://github.com/MekalBoy)
+  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Chapter 9 Romanian Translation https://github.com/richardanaya/tour_of_rust/pull/458 (in review[^in_review])
+
+[^in_review]: The pull request has been sent to the upstream and it is waiting due factors that are not related to the student's work.
