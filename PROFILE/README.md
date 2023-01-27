@@ -54,6 +54,7 @@ These are the students that have contributed to the projects:
 
 ### [Rares Constantinescu](https://github.com/RaresCon)
   - [bottom](https://github.com/ClementTsang/bottom): Dynamic battery widget https://github.com/ClementTsang/bottom/pull/975
+  - [bottom](https://github.com/ClementTsang/bottom): feature: custom terminal title https://github.com/ClementTsang/bottom/pull/999 (in review)
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Romanian translation for Chapters 1-4 https://github.com/richardanaya/tour_of_rust/pull/455 (in review)
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Translated Chapter 5 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/455 (in review)
   
