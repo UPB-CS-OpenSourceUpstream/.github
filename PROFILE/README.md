@@ -54,9 +54,18 @@ These are the students that have contributed to the projects:
 
 ### [Rares Constantinescu](https://github.com/RaresCon)
   - [bottom](https://github.com/ClementTsang/bottom): Dynamic battery widget https://github.com/ClementTsang/bottom/pull/975
+  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Romanian translation for Chapters 1-4 https://github.com/richardanaya/tour_of_rust/pull/455 (in review)
+  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Translated Chapter 5 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/455 (in review)
   
 ### [Mihai-Carol Bazga](https://github.com/carol-mb)
   - [kibi](https://github.com/ilai-deutel): Implemented CTRL + Arrows to move to next/previous word https://github.com/ilai-deutel/kibi/pull/214
 
 ### [Ioan Cristian Cirstea](https://github.com/Ioan-Cristian)
   - [tock](https://github.com/tock/tock): Implementation of PWM functionality for RP2040. https://github.com/tock/tock/pull/3372
+  
+### [George Cosma](https://github.com/george-cosma)
+  - [tockloader->rust](https://github.com/UPB-CS-OpenSourceUpstream/tockloader/tree/rust-port): Set up the rust folder https://github.com/UPB-CS-OpenSourceUpstream/tockloader/pull/8
+  - [tockloader->rust](https://github.com/UPB-CS-OpenSourceUpstream/tockloader/tree/rust-port): Some command line argument parsing with clap https://github.com/UPB-CS-OpenSourceUpstream/tockloader/pull/9
+  
+### [Alexandru Sima](https://github.com/alx-sima)
+  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Chapter 0 translation in romanian. https://github.com/richardanaya/tour_of_rust/pull/454 (in review)
