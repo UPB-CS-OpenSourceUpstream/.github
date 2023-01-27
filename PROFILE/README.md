@@ -58,3 +58,5 @@ These are the students that have contributed to the projects:
 ### [Mihai-Carol Bazga](https://github.com/carol-mb)
   - [kibi](https://github.com/ilai-deutel): Implemented CTRL + Arrows to move to next/previous word https://github.com/ilai-deutel/kibi/pull/214
 
+### [Ioan Cristian Cirstea](https://github.com/Ioan-Cristian)
+  - [tock](https://github.com/tock/tock): Implementation of PWM functionality for RP2040. https://github.com/tock/tock/pull/3372
