@@ -74,4 +74,4 @@ These are the students that have contributed to the projects:
 ### [Robert Andrei Tache](https://github.com/MekalBoy)
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Chapter 9 Romanian Translation https://github.com/richardanaya/tour_of_rust/pull/458 (in review[^in_review])
 
-[^in_review]: The pull request has been sent to the upstream and it is waiting due factors that are not related to the student's work.
+[^in_review]: The pull request has been sent to the upstream and it is waiting due to factors that are not related to the student's work.
