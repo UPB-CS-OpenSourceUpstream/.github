@@ -51,6 +51,7 @@ These are the students that have contributed to the projects:
   
 ### [Mihai Negru](https://github.com/Matrix22)
   - [elf2tab](https://github.com/tock/elf2tab): Create an tbf parsing crate https://github.com/tock/elf2tab/pull/62 (in review[^in_review])
+  - [tock](https://github.com/tock/tock): Process console command history https://github.com/tock/tock/pull/3381 (in review[^in_review])
 
 ### [Rares Constantinescu](https://github.com/RaresCon)
   - [bottom](https://github.com/ClementTsang/bottom): Dynamic battery widget https://github.com/ClementTsang/bottom/pull/975
@@ -73,5 +74,8 @@ These are the students that have contributed to the projects:
   
 ### [Robert Andrei Tache](https://github.com/MekalBoy)
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Chapter 9 Romanian Translation https://github.com/richardanaya/tour_of_rust/pull/458 (in review[^in_review])
+
+### [Cosmin Georgescu](https://github.com/CosminGGeorgescu)
+  - [tock](https://github.com/tock/tock): Process console command history https://github.com/tock/tock/pull/3381 (in review[^in_review])
 
 [^in_review]: The pull request has been sent to the upstream and it is waiting due to factors that are not related to the student's work.
