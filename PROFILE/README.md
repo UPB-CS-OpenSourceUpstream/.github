@@ -74,6 +74,9 @@ These are the students that have contributed to the projects:
   
 ### [Robert Andrei Tache](https://github.com/MekalBoy)
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Chapter 9 Romanian Translation https://github.com/richardanaya/tour_of_rust/pull/458 (in review[^in_review])
+  
+### [Anne Onciulescu](https://github.com/AnneOnciulescu)
+  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Translated Chapter 7 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/459 (in review[^in_review])
 
 ### [Cosmin Georgescu](https://github.com/CosminGGeorgescu)
   - [tock](https://github.com/tock/tock): Process console command history https://github.com/tock/tock/pull/3381 (in review[^in_review])
