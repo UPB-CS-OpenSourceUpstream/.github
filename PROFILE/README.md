@@ -58,6 +58,7 @@ These are the students that have contributed to the projects:
   - [bottom](https://github.com/ClementTsang/bottom): feature: custom terminal title https://github.com/ClementTsang/bottom/pull/999 (in review[^in_review])
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Romanian translation for Chapters 1-4 https://github.com/richardanaya/tour_of_rust/pull/455 (in review[^in_review])
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Translated Chapter 5 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/455 (in review[^in_review])
+  - [tock](https://github.com/tock/tock): multiple boards: refactored GET_PERIPHERALS https://github.com/tock/tock/pull/3385 (in review[^in_review])
   
 ### [Mihai-Carol Bazga](https://github.com/carol-mb)
   - [kibi](https://github.com/ilai-deutel): Implemented CTRL + Arrows to move to next/previous word https://github.com/ilai-deutel/kibi/pull/214
