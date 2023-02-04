@@ -56,8 +56,8 @@ These are the students that have contributed to the projects:
 ### [Rares Constantinescu](https://github.com/RaresCon)
   - [bottom](https://github.com/ClementTsang/bottom): Dynamic battery widget https://github.com/ClementTsang/bottom/pull/975
   - [bottom](https://github.com/ClementTsang/bottom): feature: custom terminal title https://github.com/ClementTsang/bottom/pull/999 (in review[^in_review])
-  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Romanian translation for Chapters 1-4 https://github.com/richardanaya/tour_of_rust/pull/455 (in review[^in_review])
-  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Translated Chapter 5 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/455 (in review[^in_review])
+  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Romanian translation for Chapters 1-4 https://github.com/richardanaya/tour_of_rust/pull/455 
+  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Translated Chapter 5 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/455 
   - [tock](https://github.com/tock/tock): multiple boards: refactored GET_PERIPHERALS https://github.com/tock/tock/pull/3385 (in review[^in_review])
   
 ### [Mihai-Carol Bazga](https://github.com/carol-mb)
@@ -71,13 +71,13 @@ These are the students that have contributed to the projects:
   - [tockloader->rust](https://github.com/UPB-CS-OpenSourceUpstream/tockloader/tree/rust-port): Some command line argument parsing with clap https://github.com/UPB-CS-OpenSourceUpstream/tockloader/pull/9
   
 ### [Alexandru Sima](https://github.com/alx-sima)
-  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Chapter 0 translation in romanian. https://github.com/richardanaya/tour_of_rust/pull/454 (in review[^in_review])
+  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Chapter 0 translation in romanian. https://github.com/richardanaya/tour_of_rust/pull/454 
   
 ### [Robert Andrei Tache](https://github.com/MekalBoy)
-  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Chapter 9 Romanian Translation https://github.com/richardanaya/tour_of_rust/pull/458 (in review[^in_review])
+  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Chapter 9 Romanian Translation https://github.com/richardanaya/tour_of_rust/pull/458 
   
 ### [Anne Onciulescu](https://github.com/AnneOnciulescu)
-  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Translated Chapter 7 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/459 (in review[^in_review])
+  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Translated Chapter 7 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/459 
 
 ### [Cosmin Georgescu](https://github.com/CosminGGeorgescu)
   - [tock](https://github.com/tock/tock): Process console command history https://github.com/tock/tock/pull/3381 (in review[^in_review])
