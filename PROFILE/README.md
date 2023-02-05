@@ -53,7 +53,7 @@ These are the students that have contributed to the projects:
   - [elf2tab](https://github.com/tock/elf2tab): Create an tbf parsing crate https://github.com/tock/elf2tab/pull/62 (in review[^in_review])
   - [tock](https://github.com/tock/tock): Process console command history https://github.com/tock/tock/pull/3381 (in review[^in_review])
 
-### [Rares Constantinescu](https://github.com/RaresCon)
+### [Rares Constantin](https://github.com/RaresCon)
   - [bottom](https://github.com/ClementTsang/bottom): Dynamic battery widget https://github.com/ClementTsang/bottom/pull/975
   - [bottom](https://github.com/ClementTsang/bottom): feature: custom terminal title https://github.com/ClementTsang/bottom/pull/999 (in review[^in_review])
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Romanian translation for Chapters 1-4 https://github.com/richardanaya/tour_of_rust/pull/455 
