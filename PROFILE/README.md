@@ -82,4 +82,7 @@ These are the students that have contributed to the projects:
 ### [Cosmin Georgescu](https://github.com/CosminGGeorgescu)
   - [tock](https://github.com/tock/tock): Process console command history https://github.com/tock/tock/pull/3381 (in review[^in_review])
 
+### [Alexandru Carp](https://github.com/alexandruCarp)
+  - [libtock-rs](https://github.com/tock/libtock-rs): Temperature API https://github.com/tock/libtock-rs/pull/451 (in review[^in_review])
+
 [^in_review]: The pull request has been sent to the upstream and it is waiting due to factors that are not related to the student's work.
