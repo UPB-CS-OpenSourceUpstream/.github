@@ -59,6 +59,7 @@ These are the students that have contributed to the projects:
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Romanian translation for Chapters 1-4 https://github.com/richardanaya/tour_of_rust/pull/455 
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Translated Chapter 5 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/455 
   - [tock](https://github.com/tock/tock): multiple boards: refactored GET_PERIPHERALS https://github.com/tock/tock/pull/3385 (in review[^in_review])
+  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Corrected some translations inside Chapter 1 in Romania https://github.com/richardanaya/tour_of_rust/pull/463 (in review[^in_review])
   
 ### [Mihai-Carol Bazga](https://github.com/carol-mb)
   - [kibi](https://github.com/ilai-deutel): Implemented CTRL + Arrows to move to next/previous word https://github.com/ilai-deutel/kibi/pull/214
@@ -72,6 +73,7 @@ These are the students that have contributed to the projects:
   
 ### [Alexandru Sima](https://github.com/alx-sima)
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Chapter 0 translation in romanian. https://github.com/richardanaya/tour_of_rust/pull/454 
+  - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Fixed a typo in chapter 0 (romanian translation) https://github.com/richardanaya/tour_of_rust/pull/462 (in review[^in_review])
   
 ### [Robert Andrei Tache](https://github.com/MekalBoy)
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Chapter 9 Romanian Translation https://github.com/richardanaya/tour_of_rust/pull/458 
