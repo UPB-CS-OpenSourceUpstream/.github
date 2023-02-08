@@ -51,14 +51,14 @@ These are the students that have contributed to the projects:
   
 ### [Mihai Negru](https://github.com/Matrix22)
   - [elf2tab](https://github.com/tock/elf2tab): Create an tbf parsing crate https://github.com/tock/elf2tab/pull/62 (in review[^in_review])
-  - [tock](https://github.com/tock/tock): Process console command history https://github.com/tock/tock/pull/3381 (in review[^in_review])
+  - [tock](https://github.com/tock/tock): Process console command history https://github.com/tock/tock/pull/3381 
 
 ### [Rares Constantin](https://github.com/RaresCon)
   - [bottom](https://github.com/ClementTsang/bottom): Dynamic battery widget https://github.com/ClementTsang/bottom/pull/975
   - [bottom](https://github.com/ClementTsang/bottom): feature: custom terminal title https://github.com/ClementTsang/bottom/pull/999 (in review[^in_review])
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Romanian translation for Chapters 1-4 https://github.com/richardanaya/tour_of_rust/pull/455 
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Translated Chapter 5 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/455 
-  - [tock](https://github.com/tock/tock): multiple boards: refactored GET_PERIPHERALS https://github.com/tock/tock/pull/3385 (in review[^in_review])
+  - [tock](https://github.com/tock/tock): multiple boards: refactored GET_PERIPHERALS https://github.com/tock/tock/pull/3385 
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Corrected some translations inside Chapter 1 in Romania https://github.com/richardanaya/tour_of_rust/pull/463 (in review[^in_review])
   
 ### [Mihai-Carol Bazga](https://github.com/carol-mb)
@@ -83,7 +83,7 @@ These are the students that have contributed to the projects:
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust):Translated Chapter 6 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/461 (in review[^in_review])
 
 ### [Cosmin Georgescu](https://github.com/CosminGGeorgescu)
-  - [tock](https://github.com/tock/tock): Process console command history https://github.com/tock/tock/pull/3381 (in review[^in_review])
+  - [tock](https://github.com/tock/tock): Process console command history https://github.com/tock/tock/pull/3381 
 
 ### [Alexandru Carp](https://github.com/alexandruCarp)
   - [libtock-rs](https://github.com/tock/libtock-rs): Temperature API https://github.com/tock/libtock-rs/pull/451 (in review[^in_review])
