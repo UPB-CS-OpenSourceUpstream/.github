@@ -87,5 +87,16 @@ These are the students that have contributed to the projects:
 
 ### [Alexandru Carp](https://github.com/alexandruCarp)
   - [libtock-rs](https://github.com/tock/libtock-rs): Temperature API https://github.com/tock/libtock-rs/pull/451 
+  
+## Selection Results
+
+These are the students that will benefit from the scholarship:
+- [Darius Andrei Jipa](https://github.com/JADarius)
+- [George Cosma](https://github.com/george-cosma)
+- [Alexandru Carp](https://github.com/alexandruCarp)
+- [Rares Constantin](https://github.com/RaresCon)
+- [Mihai Negru](https://github.com/Matrix22)
+- [Anne Onciulescu](https://github.com/AnneOnciulescu)
+- [Ioan Cristian Cirstea](https://github.com/Ioan-Cristian)
 
 [^in_review]: The pull request has been sent to the upstream and it is waiting due to factors that are not related to the student's work.
