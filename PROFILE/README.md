@@ -92,7 +92,7 @@ These are the students that have contributed to the projects:
   - [libtock-rs](https://github.com/tock/libtock-rs): Temperature API https://github.com/tock/libtock-rs/pull/451 
 
 ### [Danut Aldea](https://github.com/DanutAldea)
-  - [libtock-rs](ttps://github.com/tock/libtock-rs): Ambient Light API https://github.com/tock/libtock-rs/pull/465 (in review[^in_review])
+  - [libtock-rs](https://github.com/tock/libtock-rs): Ambient Light API https://github.com/tock/libtock-rs/pull/465 (in review[^in_review])
   
 ## Selection Results
 
