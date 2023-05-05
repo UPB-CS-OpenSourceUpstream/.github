@@ -60,6 +60,7 @@ These are the students that have contributed to the projects:
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Translated Chapter 5 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/455 
   - [tock](https://github.com/tock/tock): multiple boards: refactored GET_PERIPHERALS https://github.com/tock/tock/pull/3385 
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Corrected some translations inside Chapter 1 in Romania https://github.com/richardanaya/tour_of_rust/pull/463 (in review[^in_review])
+  - [libtock-rs](ttps://github.com/tock/libtock-rs): Air Quality API https://github.com/tock/libtock-rs/pull/464 (in review[^in_review])
   
 ### [Mihai-Carol Bazga](https://github.com/carol-mb)
   - [kibi](https://github.com/ilai-deutel): Implemented CTRL + Arrows to move to next/previous word https://github.com/ilai-deutel/kibi/pull/214
@@ -89,6 +90,9 @@ These are the students that have contributed to the projects:
 
 ### [Alexandru Carp](https://github.com/alexandruCarp)
   - [libtock-rs](https://github.com/tock/libtock-rs): Temperature API https://github.com/tock/libtock-rs/pull/451 
+
+### [Danut Aldea](https://github.com/DanutAldea)
+  - [libtock-rs](ttps://github.com/tock/libtock-rs): Ambient Light API https://github.com/tock/libtock-rs/pull/465 (in review[^in_review])
   
 ## Selection Results
 
