@@ -70,6 +70,8 @@ These are the students that have contributed to the projects:
 ### [George Cosma](https://github.com/george-cosma)
   - [tockloader->rust](https://github.com/UPB-CS-OpenSourceUpstream/tockloader/tree/rust-port): Set up the rust folder https://github.com/UPB-CS-OpenSourceUpstream/tockloader/pull/8
   - [tockloader->rust](https://github.com/UPB-CS-OpenSourceUpstream/tockloader/tree/rust-port): Some command line argument parsing with clap https://github.com/UPB-CS-OpenSourceUpstream/tockloader/pull/9
+  - [tockloader->rust](https://github.com/tock/tockloader-rs): Modify project structure in preparation for Upstream https://github.com/UPB-CS-OpenSourceUpstream/tockloader/pull/13
+  - [tockloader->rust](https://github.com/tock/tockloader-rs): Submit the rust branch to upstream https://github.com/UPB-CS-OpenSourceUpstream/tockloader/issues/12
   
 ### [Alexandru Sima](https://github.com/alx-sima)
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Chapter 0 translation in romanian. https://github.com/richardanaya/tour_of_rust/pull/454 
