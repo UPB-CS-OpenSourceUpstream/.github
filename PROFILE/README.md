@@ -45,6 +45,7 @@ These are the students that have contributed to the projects:
   - [tock](https://github.com/tock/tock): increased kernel stack for micro:bit v2 to avoid stack overflow https://github.com/tock/tock/pull/3339
   - [tock](https://github.com/tock/tock): document process console https://github.com/tock/tock/pull/3338
   - [tock](https://github.com/tock/tock): Make the set_clocks functions of the RP2040 drivers public to crates only https://github.com/tock/tock/pull/3373
+  - [tock](https://github.com/tock/tock): Change the I2C implementation to use generics https://github.com/tock/tock/pull/3431 (in review[^in_review])
   
 ### [Ioan-Alexandru Popa](https://github.com/ALEX11BR)
   - [tiny](https://github.com/osa1/tiny): Allow /quit with a message https://github.com/osa1/tiny/pull/395
