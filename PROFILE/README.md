@@ -73,6 +73,7 @@ These are the students that have contributed to the projects:
   - [tockloader->rust](https://github.com/UPB-CS-OpenSourceUpstream/tockloader/tree/rust-port): Some command line argument parsing with clap https://github.com/UPB-CS-OpenSourceUpstream/tockloader/pull/9
   - [tockloader->rust](https://github.com/tock/tockloader-rs): Modify project structure in preparation for Upstream https://github.com/UPB-CS-OpenSourceUpstream/tockloader/pull/13
   - [tockloader->rust](https://github.com/tock/tockloader-rs): Submit the rust branch to upstream https://github.com/UPB-CS-OpenSourceUpstream/tockloader/issues/12
+  - [tockloader->rust](https://github.com/tock/tockloader-rs): Ci workflow https://github.com/tock/tockloader-rs/pull/5 (in review[^in_review])
   
 ### [Alexandru Sima](https://github.com/alx-sima)
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Chapter 0 translation in romanian. https://github.com/richardanaya/tour_of_rust/pull/454 
@@ -93,6 +94,11 @@ These are the students that have contributed to the projects:
 
 ### [Danut Aldea](https://github.com/DanutAldea)
   - [libtock-rs](https://github.com/tock/libtock-rs): Ambient Light API https://github.com/tock/libtock-rs/pull/465 (in review[^in_review])
+
+### [Sebastian Nae](https://github.com/SheepSeb)
+  - [libtock-rs](https://github.com/tock/libtock-rs): Nine Degrees of Freedom API https://github.com/tock/libtock-rs/pull/468 (in review[^in_review])
+  - [libtock-rs](https://github.com/tock/libtock-rs): Buzzer API https://github.com/tock/libtock-rs/pull/470 (in review[^in_review])
+  - [libtock-rs](https://github.com/tock/libtock-rs): Sound Pressure API https://github.com/tock/libtock-rs/pull/469 (in review[^in_review])
   
 ## Selection Results
 
