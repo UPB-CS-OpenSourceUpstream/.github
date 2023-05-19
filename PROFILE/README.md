@@ -86,20 +86,22 @@ These are the students that have contributed to the projects:
 ### [Anne Onciulescu](https://github.com/AnneOnciulescu)
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Translated Chapter 7 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/459 
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust):Translated Chapter 6 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/461 (in review[^in_review])
+  - [libtock-rs](ttps://github.com/tock/libtock-rs): Synchornous ADC API https://github.com/tock/libtock-rs/pull/471
 
 ### [Cosmin Georgescu](https://github.com/CosminGGeorgescu)
   - [tock](https://github.com/tock/tock): Process console command history https://github.com/tock/tock/pull/3381 
 
 ### [Alexandru Carp](https://github.com/alexandruCarp)
   - [libtock-rs](https://github.com/tock/libtock-rs): Temperature API https://github.com/tock/libtock-rs/pull/451 
+  - [libtock-rs](https://github.com/tock/libtock-rs): Proximity API https://github.com/tock/libtock-rs/pull/462 
 
 ### [Danut Aldea](https://github.com/DanutAldea)
-  - [libtock-rs](https://github.com/tock/libtock-rs): Ambient Light API https://github.com/tock/libtock-rs/pull/465 (in review[^in_review])
+  - [libtock-rs](https://github.com/tock/libtock-rs): Ambient Light API https://github.com/tock/libtock-rs/pull/465 
 
 ### [Sebastian Nae](https://github.com/SheepSeb)
-  - [libtock-rs](https://github.com/tock/libtock-rs): Nine Degrees of Freedom API https://github.com/tock/libtock-rs/pull/468 (in review[^in_review])
-  - [libtock-rs](https://github.com/tock/libtock-rs): Buzzer API https://github.com/tock/libtock-rs/pull/470 (in review[^in_review])
-  - [libtock-rs](https://github.com/tock/libtock-rs): Sound Pressure API https://github.com/tock/libtock-rs/pull/469 (in review[^in_review])
+  - [libtock-rs](https://github.com/tock/libtock-rs): Nine Degrees of Freedom API https://github.com/tock/libtock-rs/pull/468 
+  - [libtock-rs](https://github.com/tock/libtock-rs): Buzzer API https://github.com/tock/libtock-rs/pull/470 
+  - [libtock-rs](https://github.com/tock/libtock-rs): Sound Pressure API https://github.com/tock/libtock-rs/pull/469 
   
 ## Selection Results
 
