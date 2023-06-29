@@ -61,7 +61,9 @@ These are the students that have contributed to the projects:
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Translated Chapter 5 of the Rust tour in Romanian https://github.com/richardanaya/tour_of_rust/pull/455 
   - [tock](https://github.com/tock/tock): multiple boards: refactored GET_PERIPHERALS https://github.com/tock/tock/pull/3385 
   - [tour_of_rust](https://github.com/richardanaya/tour_of_rust): Corrected some translations inside Chapter 1 in Romania https://github.com/richardanaya/tour_of_rust/pull/463 (in review[^in_review])
-  - [libtock-rs](ttps://github.com/tock/libtock-rs): Air Quality API https://github.com/tock/libtock-rs/pull/464 (in review[^in_review])
+  - [libtock-rs](ttps://github.com/tock/libtock-rs): Air Quality API https://github.com/tock/libtock-rs/pull/464
+  - [libtock-rs](ttps://github.com/tock/libtock-rs): Updated license for APIs https://github.com/tock/libtock-rs/pull/474 (in review[^in_review])
+  - [libtock-rs](ttps://github.com/tock/libtock-rs): Draft of Text Screen API implementation https://github.com/UPB-CS-OpenSourceUpstream/libtock-rs/pull/35 (in progress)
   
 ### [Mihai-Carol Bazga](https://github.com/carol-mb)
   - [kibi](https://github.com/ilai-deutel): Implemented CTRL + Arrows to move to next/previous word https://github.com/ilai-deutel/kibi/pull/214
